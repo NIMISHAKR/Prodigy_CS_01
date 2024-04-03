@@ -19,7 +19,7 @@ The Caesar cipher is a basic encryption method where each letter in a message is
 
 3. Run the script by executing 
 
-        `python3 prodigy_cs_01.py`.
+        `python3 task1.py`.
 
 4. Enter the message you want to encrypt or decrypt when prompted.
 
